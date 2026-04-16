@@ -119,7 +119,7 @@ Herramientas propias de ciberseguridad — auditoria, pentesting, respuesta a in
 ![Google](https://img.shields.io/badge/Google_Cyber-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox_Adv-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
-**Formacion:** Ing. Informatica (UPM) &bull; ASIR 9,7 (Alonso Avellaneda) &bull; Cybersec Bootcamp (4Geeks)
+**Formacion:** Ing. Informatica (UPM) &bull; ASIR (Alonso Avellaneda) &bull; Cybersec Bootcamp (4Geeks)
 
 </td></tr>
 </table>
