@@ -97,7 +97,7 @@
 
 ### Security Toolkit
 
-Herramientas propias de ciberseguridad — auditoria, pentesting, respuesta a incidentes y hardening.
+Herramientas propias de ciberseguridad para auditoria, pentesting, respuesta a incidentes y hardening.
 
 <table>
 <tr>
@@ -106,28 +106,112 @@ Herramientas propias de ciberseguridad — auditoria, pentesting, respuesta a in
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /><br>
     <b>linux-audit</b>
   </a><br>
-  <sub>Auditoria de seguridad en 10 categorias: usuarios, SSH, red, permisos, kernel, servicios</sub>
+  <sub>Auditoria de seguridad Linux en 10 categorias</sub>
 </td>
 <td align="center" width="25%">
   <a href="https://github.com/Erothan-11/recon-tool">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
     <b>recon-tool</b>
   </a><br>
-  <sub>Reconocimiento automatizado: port scan, DNS, subdominios, web discovery, WHOIS</sub>
+  <sub>Reconocimiento automatizado con 6 modulos</sub>
 </td>
 <td align="center" width="25%">
   <a href="https://github.com/Erothan-11/incident-response">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /><br>
     <b>incident-response</b>
   </a><br>
-  <sub>Recoleccion de evidencias RFC 3227: volatil, red, usuarios, persistencia, timeline</sub>
+  <sub>Recoleccion de evidencias RFC 3227</sub>
 </td>
 <td align="center" width="25%">
   <a href="https://github.com/Erothan-11/linux-hardening">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /><br>
     <b>linux-hardening</b>
   </a><br>
-  <sub>Hardening CIS automatizado: SSH, firewall, kernel, auditd, fail2ban, permisos</sub>
+  <sub>Hardening CIS automatizado, 9 modulos</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/log-analyzer">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /><br>
+    <b>log-analyzer</b>
+  </a><br>
+  <sub>Analisis de logs: brute force, SQLi, XSS</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/docker-security-scanner">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /><br>
+    <b>docker-scanner</b>
+  </a><br>
+  <sub>Scanner de seguridad Docker</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/network-monitor">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+    <b>network-monitor</b>
+  </a><br>
+  <sub>Monitor de red en tiempo real</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/password-auditor">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /><br>
+    <b>password-auditor</b>
+  </a><br>
+  <sub>Auditor de passwords y politicas</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Tools & Side Projects
+
+Herramientas de uso general y proyectos personales.
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/ctf-toolkit">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+    <b>ctf-toolkit</b>
+  </a><br>
+  <sub>Swiss Army knife para CTFs</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/password-generator">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+    <b>password-generator</b>
+  </a><br>
+  <sub>Generador de passwords con GUI</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/selene-cleaner">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+    <b>selene-cleaner</b>
+  </a><br>
+  <sub>Limpiador de metadatos PDF/DOCX</sub>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/rpg-dice-roller">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+    <b>rpg-dice-roller</b>
+  </a><br>
+  <sub>Dados RPG + generador NPCs</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+  <a href="https://github.com/Erothan-11/initiative-tracker">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+    <b>initiative-tracker</b>
+  </a><br>
+  <sub>Tracker de iniciativa para combate RPG</sub>
+</td>
+<td align="center" width="25%">
+</td>
+<td align="center" width="25%">
+</td>
+<td align="center" width="25%">
 </td>
 </tr>
 </table>
