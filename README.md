@@ -1,62 +1,81 @@
 # Hola, soy Fran Rudes
 
-**Sysadmin | Network Engineer | Cybersecurity Analyst**
+**System Administrator | Cybersecurity Analyst | Break > Fix > Automate | I speak Bash, not nonsense**
 
-Administrador de sistemas, especialista en redes y profesional de ciberseguridad con enfoque práctico y orientado a entornos reales de producción. Mi valor diferencial es la experiencia real en troubleshooting y un enfoque técnico sin dependencia de soluciones teóricas.
+Administrador de sistemas, especialista en redes y profesional de ciberseguridad con +8 anos de experiencia en entornos reales de produccion. Actualmente en **Getronics** como Network Specialist en comunicaciones y seguridad. Mi valor diferencial: experiencia real en troubleshooting y enfoque tecnico sin depender de soluciones teoricas.
 
 ---
 
-### Sistemas e Infraestructura
-- Administración avanzada de **Linux** en entornos enterprise (Red Hat, Debian, Rocky)
-- Hardening de sistemas y auditorías de seguridad
-- Virtualización con **Proxmox** y **KVM**
-- Contenerización con **Docker** (WordPress, bases de datos, reverse proxy con Traefik)
-- Migraciones críticas de servicios minimizando impacto en producción
+### Experiencia
 
-### Redes y Comunicaciones
-- **Fortinet** (FortiGate) · **Palo Alto** (GlobalProtect) · **Aruba** (switching, WiFi, ClearPass, Central) · **Huawei**
-- VLANs, routing, switching y conectividad en capa 2/3
-- VPNs: IPSec, IKE, OpenVPN, StrongSwan
-- Resolución de problemas complejos de conectividad en producción
+| Rol | Empresa | Periodo |
+|---|---|---|
+| Network Specialist - Communications & Security | **Getronics** | 2026 - Actual |
+| Technical Lead / Sysadmin & Security Analyst | **Kingdom Wargames** (freelance) | 2024 - Actual |
+| System Administrator - Atlantis Animation | **xatelite** | 2022 - 2026 |
+| IT Specialist & Technical Trainer | **FDS Spain (DXC)** | 2018 - 2022 |
 
-### Ciberseguridad
-- Pentesting en entornos controlados (DVWA, bWAPP, Metasploitable)
-- Enumeración y análisis con **Nmap**, **Burp Suite**, **OWASP ZAP**
-- Explotación: SQLi, XSS, Shellshock, escaladas locales
-- Análisis forense: clonado bit a bit, hashes SHA-256, cadena de custodia
-- SIEM: **Wazuh**, **Elastic Stack**, **LME (CISA)**
-- Diseño de SGSI basado en ISO 27001
+Infraestructura IT para producciones de animacion (Messi and the Giants, SPA Studios - Ember, Bad Dinosaurs), gestion de redes enterprise y plataformas e-commerce distribuidas.
 
-### Automatización y Desarrollo
-- Scripting avanzado en **Bash** y **Python** orientado a pentesting y automatización
-- Desarrollo de herramientas en **C#**
-- Scripts personalizados para auditorías y explotación controlada
+---
+
+### Tech Stack
+
+**Sistemas**
+`Linux (RHEL, Rocky, Debian, Ubuntu)` `Windows Server (AD, GPO)` `Proxmox` `KVM` `VMware` `Docker` `Kubernetes` `Traefik` `TrueNAS` `Synology`
+
+**Redes**
+`Fortinet FortiGate` `Palo Alto` `Aruba (ClearPass, Central)` `Huawei` `MikroTik` `VPN (IPSec, IKE, OpenVPN, StrongSwan)` `VLANs` `Routing/Switching L2/L3`
+
+**Seguridad**
+`Wazuh` `Elastic Stack` `LME (CISA)` `Nmap` `Burp Suite` `OWASP ZAP` `Soffid IAM` `fail2ban` `Auditd` `Sysmon`
+
+**Automatizacion**
+`Bash` `Python` `PowerShell` `C#` `PHP`
+
+**Web & Infra**
+`WordPress` `WooCommerce` `MariaDB/MySQL` `HTML/CSS` `CDN & Caching` `Load Balancing`
 
 ---
 
 ### Certificaciones
 
-| Certificación | Área |
+| Certificacion | Entidad |
 |---|---|
-| RHCSA | Sistemas Linux |
-| CompTIA Security+ | Seguridad |
-| CompTIA PenTest+ | Pentesting |
-| CompTIA Linux+ | Sistemas Linux |
-| CCNA Routing & Switching + Security | Redes |
-| Fortinet NSE 1, 2, 3 | Firewalls |
-| Kubernetes Administrator | Orquestación |
-| Docker Certified Associate | Contenedores |
-| Microsoft Azure Fundamentals | Cloud |
-| Google Cybersecurity Certificate | Seguridad |
+| Red Hat Certified System Administrator (RHCSA) | Red Hat |
+| CompTIA Security+ | CompTIA |
+| CompTIA PenTest+ | CompTIA |
+| CompTIA Linux+ | CompTIA |
+| CCNA 200-301 + CCNA Security | Cisco |
+| Fortinet NSE 1, 2, 3 | Fortinet |
+| MikroTik Certified Network Associate | MikroTik |
+| Soffid4 IAM Qualified Professional | Soffid |
+| Kubernetes Administrator | Linux Foundation |
+| Docker Certified Associate | Mirantis |
+| Azure Fundamentals | Microsoft |
+| Google Cybersecurity Certificate | Google |
+| Google IT Support Professional | Google |
+| Proxmox VE Advanced | Proxmox |
+| Linux Essentials | LPI |
+
+---
+
+### Formacion
+
+| Titulo | Centro | Nota |
+|---|---|---|
+| Ingenieria Informatica | Universidad Politecnica de Madrid | - |
+| Grado Superior ASIR | IES Alonso Avellaneda | 9,7 |
+| Cybersecurity Bootcamp | 4Geeks Academy | - |
 
 ---
 
 ### Proyectos destacados
-- **Kingdom Wargames** — Plataforma multi-tienda e-commerce (infraestructura Docker distribuida y escalable)
-- **Laboratorio de ciberseguridad** — Entorno virtualizado completo en Proxmox
-- **SIEM personalizado** — Implementación con capacidades de análisis avanzado
-- **Análisis forense** — Proyecto completo sobre sistema comprometido
-- **Life Counters** — App web de gestión de personajes y contadores para juegos de rol
+- **Kingdom Wargames** — Plataforma multi-tienda e-commerce con infraestructura Docker distribuida y escalable
+- **Laboratorio de ciberseguridad** — Entorno virtualizado completo en Proxmox con multiples maquinas
+- **SIEM personalizado** — Implementacion con Wazuh + Elastic Stack y capacidades de analisis avanzado
+- **Analisis forense** — Proyecto completo sobre sistema comprometido (clonado bit a bit, cadena de custodia)
+- **Scripts de auditoria** — Herramientas automatizadas para pentesting y hardening
 
 ---
 
