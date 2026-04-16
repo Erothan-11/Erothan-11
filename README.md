@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>System Administrator | Cybersecurity Analyst | Network Engineer</b><br>
-  +8 anos en entornos reales de produccion &bull; Actualmente en <b>Getronics</b>
+  +9 años en entornos reales de produccion &bull; Actualmente en <b>Getronics</b>
 </p>
 
 <p align="center">
